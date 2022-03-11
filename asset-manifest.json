@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/esercitazione-19gen-darktheme/static/js/main.575d25dd.js",
+    "static/js/787.f8d264ee.chunk.js": "/esercitazione-19gen-darktheme/static/js/787.f8d264ee.chunk.js",
+    "index.html": "/esercitazione-19gen-darktheme/index.html",
+    "main.575d25dd.js.map": "/esercitazione-19gen-darktheme/static/js/main.575d25dd.js.map",
+    "787.f8d264ee.chunk.js.map": "/esercitazione-19gen-darktheme/static/js/787.f8d264ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.575d25dd.js"
+  ]
+}
