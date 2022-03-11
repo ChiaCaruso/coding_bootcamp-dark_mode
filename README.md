@@ -1,3 +1,7 @@
+# Esercizio 19 Gennaio - Styled component
+- Tutti i compnenti dovranno essere degli styled component.
+- Ci saranno due temi uno Dark e uno Light.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

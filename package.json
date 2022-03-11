@@ -1,6 +1,7 @@
 {
   "name": "esercizio-19gen",
   "version": "0.1.0",
+  "homepage": "https://chiacaruso.github.io/esercitazione-19gen-darktheme/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
