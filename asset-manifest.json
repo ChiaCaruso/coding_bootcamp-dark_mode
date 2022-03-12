@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/esercitazione-19gen-darktheme/static/js/main.575d25dd.js",
-    "static/js/787.f8d264ee.chunk.js": "/esercitazione-19gen-darktheme/static/js/787.f8d264ee.chunk.js",
-    "index.html": "/esercitazione-19gen-darktheme/index.html",
-    "main.575d25dd.js.map": "/esercitazione-19gen-darktheme/static/js/main.575d25dd.js.map",
-    "787.f8d264ee.chunk.js.map": "/esercitazione-19gen-darktheme/static/js/787.f8d264ee.chunk.js.map"
+    "main.js": "/coding_bootcamp-dark_mode/static/js/main.3048297f.js",
+    "static/js/787.f8d264ee.chunk.js": "/coding_bootcamp-dark_mode/static/js/787.f8d264ee.chunk.js",
+    "index.html": "/coding_bootcamp-dark_mode/index.html",
+    "main.3048297f.js.map": "/coding_bootcamp-dark_mode/static/js/main.3048297f.js.map",
+    "787.f8d264ee.chunk.js.map": "/coding_bootcamp-dark_mode/static/js/787.f8d264ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.575d25dd.js"
+    "static/js/main.3048297f.js"
   ]
 }
